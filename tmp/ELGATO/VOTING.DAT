@@ -1,0 +1,36 @@
+[3000]
+[vote:<603C2185.284.dove-ads@hovalbbs.com>]
+UpVote = true
+In-Reply-To: <603326F1.992.dove-ads@pathunknown.net>
+WhenWritten:  20210228150437-0800  41e0
+Sender: Bob Roberts
+SenderNetAddr: VERT/HOVAL
+Conference: 2002
+
+[3080]
+[vote:<603CEBBE.2052.dove-debate@box.imzadi.de>]
+DownVote = true
+In-Reply-To: <603B0305.4306.dove-debate@palantirbbs.ddns.net>
+WhenWritten:  20210301142726+0100  103c
+Sender: acn
+SenderNetAddr: VERT/IMZADI
+Conference: 2004
+
+[3100]
+[vote:<603D77F6.602.dove-debate@tfsi.synchronetbbs.org>]
+Votes = 0x1
+In-Reply-To: <6027CEAB.4706.dove-debate@havens.synchronetbbs.org>
+WhenWritten:  20210301152542+2255  055f
+Sender: nick
+SenderNetAddr: VERT/TFSI
+Conference: 2004
+
+[4180]
+[vote:<603D9EDE.49825.sync_sys@vert.synchro.net>]
+UpVote = true
+In-Reply-To: <603CFE15.16949.sync_sys@x-bit.org>
+WhenWritten:  20210301181142-0800  41e0
+Sender: Digital Man
+SenderNetAddr: VERT
+Conference: 2017
+
